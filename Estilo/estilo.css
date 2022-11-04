@@ -252,7 +252,7 @@ h3{
     background: #e39403;
 }
 
-@media(max-width:768px){
+@media(max-width:667px){
     .intro{
         font-size: 16px;
         color: var(--colorblanco);
